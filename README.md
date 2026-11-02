@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="src/assets/img/logo.png" />
-  <img src="src/assets/img/logo-black.jpg" alt="AiLife logo" style="max-width: 360px; height: auto;" />
+  <img src="src/assets/img/logo-black.jpg" alt="AiLife logo" width="360" height="126" style="width: 360px; max-width: 100%; height: auto;" />
 </picture>
 
 # AiLife — AI SaaS Website
