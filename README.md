@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="src/assets/img/logo-black.jpg" alt="AiLife logo" width="360" padding-left="10px"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="src/assets/img/logo.png" />
+  <img src="src/assets/img/logo-black.jpg" alt="AiLife logo" style="max-width: 360px; height: auto;" />
+</picture>
 
 # AiLife — AI SaaS Website
 
@@ -35,10 +38,10 @@ AiLife is a React website starter for presenting an AI or SaaS product. It provi
 
 # Built with
 
-- [React](https://react.dev/) 18
-- [Vite](https://vitejs.dev/) 4
-- [React Router](https://reactrouter.com/) 6
-- [Bootstrap](https://getbootstrap.com/) 5
+- [React](https://react.dev/) `18`
+- [Vite](https://vitejs.dev/) `4`
+- [React Router](https://reactrouter.com/) `6`
+- [Bootstrap](https://getbootstrap.com/) `5`
 - AOS, React Icons, React Multi Carousel, and React Type Animation
 
 # Getting started
@@ -139,9 +142,6 @@ yarn preview
 
 Vite writes the ready-to-deploy static files to **`dist/`** (not `public/`). Upload the contents of `dist/` to your static web host, or connect the repository to a deployment provider such as Vercel. The included `vercel.json` provides a rewrite so React Router routes can be opened directly on Vercel. For other hosts, configure a single-page application fallback to `index.html`.
 
-# External resources
-
-The site loads the Mulish font from Google Fonts and embeds a YouTube video. Visitors may connect to those providers when the relevant page loads. Review their terms and your privacy requirements before deploying.
 
 # Author
 
