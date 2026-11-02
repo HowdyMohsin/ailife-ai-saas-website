@@ -2,6 +2,7 @@
   "name": "ailife",
   "private": true,
   "version": "0.0.0",
+  "author": "Mohsin Ali",
   "type": "module",
   "scripts": {
     "dev": "vite",
