@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src/assets/img/logo-black.jpg" alt="AiLife logo" width="360" />
+<img src="src/assets/img/logo-black.jpg" alt="AiLife logo" width="360" padding-left="10px"/>
 
 # AiLife — AI SaaS Website
 
