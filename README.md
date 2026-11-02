@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="src/assets/img/logo.png" alt="AiLife logo" width="180" />
+<img src="src/assets/img/logo-black.png" alt="AiLife logo" width="360" />
 
 # AiLife — AI SaaS Website
 
@@ -12,7 +12,7 @@ Built with React, Vite, and Bootstrap. Includes marketing pages, pricing, FAQs, 
   <img src="https://img.shields.io/badge/React-18-149ECA?logo=react&logoColor=white" alt="React 18" />
   <img src="https://img.shields.io/badge/Vite-4-646CFF?logo=vite&logoColor=white" alt="Vite 4" />
   <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap 5" />
-  <img src="https://img.shields.io/badge/License-not%20specified-lightgrey" alt="License not specified" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License" />
 </p>
 
 [Getting started](#getting-started) · [Features](#features) · [Pages](#pages) · [Deployment](#deployment) · [Author](#author)
@@ -153,4 +153,4 @@ MERN Stack Developer & JavaScript Specialist
 
 # License
 
-No license is currently specified. Before publishing, confirm that you have permission to redistribute the source code, images, fonts, and any template materials. If you own the rights to the project and want to allow reuse, add a `LICENSE` file with your chosen terms (MIT is one common option). Do not apply a license to third-party materials unless their terms allow it.
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). The license applies to the project's original materials; third-party images, fonts, and other assets may be subject to their own terms.
